@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a6c3167d3d6c5f86",
+        "id": "4a7d44c8064b042b",
         "type": "tabs",
         "children": [
           {
-            "id": "30258aecc6529c71",
+            "id": "8585b647fbfc0802",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Постановка Portfolio Survival Lab, локальный Research MVP (P0).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Постановка Portfolio Survival Lab, локальный Research MVP (P0)"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Постановка Portfolio Survival Lab, локальный Research MVP (P0).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Постановка Portfolio Survival Lab, локальный Research MVP (P0).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +155,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Постановка Portfolio Survival Lab, локальный Research MVP (P0).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,9 +181,9 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "30258aecc6529c71",
+  "active": "8585b647fbfc0802",
   "lastOpenFiles": [
-    "Добро пожаловать.md",
-    "Постановка Portfolio Survival Lab, локальный Research MVP (P0).md"
+    "Постановка Portfolio Survival Lab, локальный Research MVP (P0).md",
+    "Добро пожаловать.md"
   ]
 }
