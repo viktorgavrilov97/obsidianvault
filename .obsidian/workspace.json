@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a7d44c8064b042b",
+        "id": "b75163fc3eacc656",
         "type": "tabs",
         "children": [
           {
-            "id": "8585b647fbfc0802",
+            "id": "09284e0dd3b00c73",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -181,8 +181,9 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "8585b647fbfc0802",
+  "active": "09284e0dd3b00c73",
   "lastOpenFiles": [
+    "Windows 11 ARM на MacBook M5.md",
     "Постановка Portfolio Survival Lab, локальный Research MVP (P0).md",
     "Добро пожаловать.md"
   ]
